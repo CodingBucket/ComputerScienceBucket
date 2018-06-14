@@ -1,0 +1,28 @@
+-----------------------------------------------------
+ >> JavaScript
+-----------------------------------------------------
+=> https://developer.mozilla.org/en-US/docs/Web/JavaScript
+=> http://www.htmldog.com/guides/javascript/advanced/
+=> https://docs.microsoft.com/en-us/scripting/javascript/advanced/advanced-javascript
+=> https://programmingwithmosh.com/javascript/essential-modern-javascript-features/  
+
+=> JS for Experienced Developers By Code Once
+https://www.youtube.com/watch?v=h50lRx3Myfo
+
+=> JS Fundamentals BY Code Once
+https://www.youtube.com/watch?v=YMvzfQSI6pQ
+
+=> OOP in JavaScript By Programming with Mosh
+https://www.youtube.com/watch?v=PFmuCDHHpwk
+
+=> JS Tutorial (hasin) By Learn with Hasin Hayder - 29
+https://www.youtube.com/watch?v=y0uT4izH8F0&list=PLoR56CteKZnAdVtfTbAbUqT2thG4S-Anv 
+
+=> JS Tutorial By kudvenkat - 72
+https://www.youtube.com/playlist?list=PL6n9fhu94yhUA99nOsJkKXBqokT3MBK0b
+
+=> Simplicity is Vuetiful (Vue) By Coding Tech
+https://www.youtube.com/watch?v=6HRPbh5fCVA
+
+=> JavaScript Tutotrials - Programming with Mosh - 19
+https://www.youtube.com/watch?v=W6NZfCO5SIk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax

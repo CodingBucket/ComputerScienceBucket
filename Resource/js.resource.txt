@@ -1,5 +1,5 @@
 -----------------------------------------------------
- >> JavaScript
+ # JavaScript
 -----------------------------------------------------
 => https://developer.mozilla.org/en-US/docs/Web/JavaScript
 => http://www.htmldog.com/guides/javascript/advanced/
@@ -21,8 +21,17 @@ https://www.youtube.com/watch?v=y0uT4izH8F0&list=PLoR56CteKZnAdVtfTbAbUqT2thG4S-
 => JS Tutorial By kudvenkat - 72
 https://www.youtube.com/playlist?list=PL6n9fhu94yhUA99nOsJkKXBqokT3MBK0b
 
+=> JavaScript Tutotrials - Programming with Mosh - 19
+https://www.youtube.com/watch?v=W6NZfCO5SIk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax
+
+-----------------------------------------------------
+ # Vue
+-----------------------------------------------------
 => Simplicity is Vuetiful (Vue) By Coding Tech
 https://www.youtube.com/watch?v=6HRPbh5fCVA
 
-=> JavaScript Tutotrials - Programming with Mosh - 19
-https://www.youtube.com/watch?v=W6NZfCO5SIk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax
+-----------------------------------------------------
+ # React
+-----------------------------------------------------
+=> React T - CodingEntrepreneurs - 24
+https://www.youtube.com/watch?v=-_pgcFQ0l64&list=PLEsfXFp6DpzQbwYDx1zgcKJ4tzyWFaESK
